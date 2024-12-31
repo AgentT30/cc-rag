@@ -1,0 +1,9 @@
+boto3
+pypdf
+openai
+ipykernel
+python-dotenv
+langchain-groq
+langchain-openai
+langchain-community
+langchain-anthropic
