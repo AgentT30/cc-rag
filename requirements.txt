@@ -3,7 +3,12 @@ pypdf
 openai
 ipykernel
 python-dotenv
+langchain-core
 langchain-groq
+langchain-nomic
 langchain-openai
+langchain-chroma
+pysqlite3-binary
 langchain-community
 langchain-anthropic
+langchain-google-vertexai
