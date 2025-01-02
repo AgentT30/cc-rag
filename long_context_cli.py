@@ -67,7 +67,7 @@ constructed_prompt = pdf_text + "\n\n ### \n" + f"The above is the terms and con
 
 if 'gpt' in llm_model_map[model_choice]:
     client = OpenAI(
-        api_key=os.getenv("OPENAI_KEY"),
+        api_key=os.getenv("OPENAI_API_KEY"),
     )
 
     try:
